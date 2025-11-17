@@ -1,6 +1,6 @@
 # property_calculator_ with_ Real time Surat dat
 What is my project :
-This will be a property calculator That is specifically trained for Surat by real time data brave data Call Surat
+This will be a property calculator That is specifically trained for Surat by real time data Surat
 
 V1 :
  This will be my version 1 In version one <p>
