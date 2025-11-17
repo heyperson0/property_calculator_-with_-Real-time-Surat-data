@@ -1,4 +1,4 @@
-# property_calculator_ with_ Real time Surat dat
+# Surat Property Price Calculator (Python, ML)
 What is my project :
 This will be a property calculator That is specifically trained for Surat by real time data Surat
 
