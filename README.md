@@ -1,6 +1,6 @@
 # Surat Property Price Calculator (Python, ML)
 What is my project :
-This will be a property calculator That is specifically trained for Surat by real time data Surat
+This will be a property calculator That is specifically trained for Surat by real time data brave data Call Surat
 
 V1 :
  This will be my version 1 In version one <p>
